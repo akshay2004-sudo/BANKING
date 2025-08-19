@@ -1,5 +1,5 @@
 
-package A;// We're going to put everything in a single file for this assignment, as requested.
+package BANKING;// We're going to put everything in a single file for this assignment, as requested.
 // The code is organized to show a clear thought process:
 // 1. A class to represent a single bank account.
 // 2. A class to represent an entire bank, managing its accounts and transactions.

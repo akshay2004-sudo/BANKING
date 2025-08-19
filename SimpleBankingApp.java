@@ -1,4 +1,4 @@
-package A;// A simple banking application with basic functionalities, prepared for a school project.
+package BANKING;// A simple banking application with basic functionalities, prepared for a school project.
 
 // A simple banking application with basic functionalities, prepared for a school project.
 
